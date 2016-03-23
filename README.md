@@ -1,18 +1,18 @@
 WeChat
 ===
-Social APP is popular all over the world, such as: Facebook, Line, Whatsapp, Kakao.     
-You still worry about their own project social module? You also thinking WeChat function is how to achieve? Don't worry, come and look at this!
-This project is a high copy WeChat, and based on WeChat do to some experience and UI optimization. implementation features:  
--  The text chat between friends, expression, video calls, voice, the voice call, send a file, etc. 
--  Group chat, 
--  from the address book add buddy,
--  QR Code scanning add buddy, QR Code scanning transfer between friends, 
--  WeChat public account information push, 
--  circle of friends.
--  etc.      
+社会的应用深受世界各地，如：脸谱，行，WhatsApp的，Kakao。
+你还在担心自己的项目的社会模块？你也想微信的功能是如何实现的？别担心，来看看这个！
+这个项目是一个高仿微信，以及基于微信做的一些经验和UI优化。实现功能：
+- 朋友，表达，视频通话，语音，语音通话之间的文字聊天，发送文件，等等。
+- 群聊，
+- 从地址簿添加好友，
+- QR码扫描添加好友，QR码的朋友之间的扫描转移，
+- 微信公共账号信息推送，
+- 朋友圈。
+- 等。
 
-**If you are interest in this project, welcome to join our big family of open source!    
-Family ！！！**
+**如果你在这个项目感兴趣，欢迎加入到我们的大家庭开源！
+家庭！**
  
 
 Image
@@ -31,7 +31,7 @@ Image
 ===
  
 
-Download Apk
+下载APK
 ===
 
 <a href="https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk">
@@ -40,19 +40,18 @@ Download Apk
 </a>
 
 
-Usage
+用法
 ===
- 1、SNS App ( Travel Direction、 Food Direction、 Medical Direction、Game Direction etc.)     
- 
- 2、Mobile Business Office
+ 1，SNS应用（行驶方向，食品方向发展，医疗方向，游戏方向等）
+ 
+ 2，移动商务办公
 
- 3、O2O (Online To Offline)
- 
-Pull Requests
+ 3，O2O（线上到离线）
+ 
+引入请求
 ===
-I will gladly accept pull requests for fixes and feature enhancements but please do them in the develop branch.
-
-License
+我会很乐意接受固定和增强功能引入请求，但请不要他们在发展分支。
+执照
 -------
     Copyright (c) 2015 Juns Alen
 
